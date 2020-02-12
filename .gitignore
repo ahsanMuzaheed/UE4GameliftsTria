@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+/Saved
+/Intermediate
+/Binaries
+/.vs
+/ProjectCougar.sln
+/Content/Developers
+/Content/Collections
+/Plugins/GameLiftClientSDK/*
+/Plugins/GameLiftServerSDK/*
+/Plugins/GameLiftServerSDK/*
